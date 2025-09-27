@@ -21,7 +21,7 @@ This repository hosts the **interactive product simulation** (not a portfolio) t
 ---
 
 ## Demo / Prototype
-- **Live Demo:** _Add your deploy URL once published (e.g., Firebase Hosting link)_
+- **Live Demo:** - https://orion-os-git-main-harshit-pmxs-projects.vercel.app?_vercel_share=ZpGx1XFqOfRJLqkHm6CNW1HQca7vYaj3
 - **Screenshots (recommended):**
   - `docs/screens/01_onboarding.png` - https://drive.google.com/file/d/1xTTCb9vL6zmHkdEnQtZeVZ-zNNcJiFnZ/view?usp=drive_link
   - `docs/screens/02_dashboard.png` - https://drive.google.com/file/d/1Eavk59pxJi4l8qHCxTYVQ1ZHifzqK5u7/view?usp=drive_link
