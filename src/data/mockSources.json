@@ -1,0 +1,6 @@
+
+[
+  { "id": "doc-101", "type": "doc", "title": "UPSC History Notes", "snippets": ["Causes of Revolt of 1857", "Gupta administration", "Modern India reforms"] },
+  { "id": "cal-001", "type": "calendar", "title": "Daily Study Calendar", "snippets": ["06:00-08:00 Deep Work", "20:00-22:00 Revision"] },
+  { "id": "web-001", "type": "web", "title": "NCERT Summary: History Ch.3", "snippets": ["Harappan script", "Urban planning", "Trade routes"] }
+]

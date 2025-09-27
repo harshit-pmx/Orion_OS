@@ -1,0 +1,24 @@
+{
+  "onboarding": {
+    "goals": ["Crack UPSC 2026", "Build Orion v1"],
+    "preferences": { "focusWindows": ["06:00-08:00", "20:00-22:00"], "notificationStyle": "gentle" },
+    "permissions": { "calendar": true, "documents": false, "emails": false, "sensors": false }
+  },
+  "quickActions": [
+    { "label": "Plan 2-hr deep work", "action": "plan_deep_work" },
+    { "label": "Summarize chapter 3", "action": "summarize_doc" },
+    { "label": "Reschedule study block", "action": "reschedule_block" }
+  ],
+  "knowledgeSeeds": [
+    { "id": "doc-101", "title": "UPSC History Notes", "type": "doc" },
+    { "id": "cal-001", "title": "Daily Study Calendar", "type": "calendar" }
+  ],
+  "recommendations": [
+    { "id": "rec-1", "title": "90-min History sprint at 7:00 PM", "reason": "Matches focus window • Free slot detected" }
+  ],
+  "roadmap": {
+    "now": ["Onboarding v1", "Multimodal dashboard", "Goals→Plan pipeline"],
+    "next": ["Proactive reorganize", "Cross-device sync layer", "Privacy explainers v2"],
+    "later": ["Third-party skills", "Edge inference stubs", "Voice everywhere"]
+  }
+}
